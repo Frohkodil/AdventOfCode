@@ -12,7 +12,9 @@ public class App
     public static void main( String[] args ) throws IOException {
         DayOne dayOne = new DayOne();
         dayOne.solve();
+        dayOne.solvePartTwo();
         DayTwo dayTwo = new DayTwo();
         dayTwo.solve();
+        dayTwo.solvePartTwo();
     }
 }

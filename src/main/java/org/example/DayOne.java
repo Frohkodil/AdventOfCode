@@ -6,6 +6,11 @@ import java.util.ArrayList;
 public class DayOne implements Day {
 
     public void solve() throws IOException {
+        System.out.println("fehlt");
+    }
+
+    @Override
+    public void solvePartTwo() throws IOException {
         File file = new File("src/main/resources/day1.txt");
         BufferedReader bufferedReader = new BufferedReader(new FileReader(file));
         ArrayList<String> list = new ArrayList<String>();
