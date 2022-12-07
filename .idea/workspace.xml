@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16bcd36d-d088-4923-b00c-ee08aa90d9ea" name="Changes" comment="solved day one">
+    <list default="true" id="16bcd36d-d088-4923-b00c-ee08aa90d9ea" name="Changes" comment="solved day two">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Day.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DayOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DayTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DayTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DayThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DayThree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670439396709</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="solved day two">
+      <created>1670444053567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670444053567</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="solved day one" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved day one" />
+    <MESSAGE value="solved day two" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved day two" />
   </component>
 </project>

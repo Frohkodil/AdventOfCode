@@ -16,5 +16,7 @@ public class App
         DayTwo dayTwo = new DayTwo();
         dayTwo.solve();
         dayTwo.solvePartTwo();
+        DayThree dayThree = new DayThree();
+        dayThree.solve();
     }
 }
